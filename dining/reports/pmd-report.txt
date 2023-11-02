@@ -1,0 +1,5 @@
+src/main/java/DiningOrder/Order.java:34:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/DiningOrder/Order.java:51:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/DiningOrder/Order.java:55:	UseCollectionIsEmpty:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/DiningOrder/Order.java:81:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/dining/DiningExperienceManager.java:26:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
